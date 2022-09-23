@@ -8,4 +8,6 @@
     + (default)
     + protected
     + public
-    
+  + 객체지향 구현
+    + 가비지 콜렉션(Garbage Collection)
+      + 메모리가 부족한 상황에 메모리에서 더 이상 사용하지 않는 객체들을 제거하여 사용가능한 메모리를 확보
